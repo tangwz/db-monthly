@@ -12,7 +12,7 @@
 * [SQL优化](#sql优化)
 * [RocksDB](#rocksdb)
 * [Influxdb](#influxdb)
-* [PG&GP](#pg&gp)
+* [PG&GP](#pggp)
 * [GPDB](#gpdb)
 * [X-Engine](#x-engine)
 * [PolarDB](#polardb)
