@@ -1,6 +1,13 @@
 # 阿里云数据库内核月报分类整理
 
+<p align='center'>
+<a href="https://github.com/tangwz/db-monthly" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/tangwz/db-monthly?label=Stars&style=flat-square&logo=GitHub"></a>
+<a href="https://www.zhihu.com/people/duoketang" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@tangwz-000000.svg?style=flat-square&logo=Zhihu"></a>
+<a href="https://space.bilibili.com/19041535" target="_blank"><img src="https://img.shields.io/badge/B%E7%AB%99-@%E5%A4%9A%E9%A2%97%E7%B3%96-000000.svg?style=flat-square&logo=Bilibili"></a>
+</p>
+
 ![](images/duoketang.png)
+
 
 * [MySQL](#mysql)
 * [PostgreSQL](#postgresql)
@@ -22,6 +29,7 @@
 * [PetaData](#petadata)
 * [HybridDB](#hybriddb)
 * [CloudDBA](#clouddba)
+
 
 # MySQL
 | 分类 | 标题  |
