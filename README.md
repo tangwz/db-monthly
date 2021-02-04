@@ -363,6 +363,8 @@
 | 源码分析 | [undo tablespace 的发展](http://mysql.taobao.org/monthly/2020/10/02/) |
 | 源码分析 | [MySQL Statement Digest](http://mysql.taobao.org/monthly/2020/11/01/) |
 | 源码分析 | [8.0 · DDL的那些事](http://mysql.taobao.org/monthly/2020/05/05/) |
+| 源码阅读 | [内部XA事务](http://mysql.taobao.org/monthly/2021/01/02/) |
+| 源码阅读 | [Innodb内存管理解析](http://mysql.taobao.org/monthly/2021/01/06/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
 | 社区贡献 | [AliSQL那些事儿](http://mysql.taobao.org/monthly/2016/09/01/) |
 | 捉虫状态 | [bug分析两例](http://mysql.taobao.org/monthly/2016/09/06/) |
@@ -560,6 +562,7 @@
 | 内核优化 | [Hybrid DB for PG 赋能向量化执行和查询子树封装](http://mysql.taobao.org/monthly/2018/03/05/) |
 | 内核特性 | [RDS PostgreSQL 高并发场景下提高系统吞吐量](http://mysql.taobao.org/monthly/2018/06/07/) |
 | 新特征 | [PG11并行Hash Join介绍](http://mysql.taobao.org/monthly/2018/07/06/) |
+| 新增特性 | [PG 13 新特性](http://mysql.taobao.org/monthly/2021/01/08/) |
 | 引擎特性 | [PostgreSQL Hint Bits 简介](http://mysql.taobao.org/monthly/2018/12/02/) |
 | 引擎特性 | [PostgreSQL 并行查询概述](http://mysql.taobao.org/monthly/2019/01/04/) |
 | 引擎特性 | [多版本并发控制介绍及实例分析](http://mysql.taobao.org/monthly/2019/08/01/) |
@@ -760,11 +763,14 @@
 | 案例分析 | [UTF8与GBK数据库字符集](http://mysql.taobao.org/monthly/2020/08/07/) |
 | 新特性 | [映射队列](http://mysql.taobao.org/monthly/2020/09/08/) |
 | 发展前沿 | [NewSQL数据库概述](http://mysql.taobao.org/monthly/2020/12/01/) |
+| 最佳实践 | [内存索引指南](http://mysql.taobao.org/monthly/2021/01/04/) |
+| 最佳实践 | [高性能 Hash Join 算法实现简述](http://mysql.taobao.org/monthly/2021/01/05/) |
 
 # X-Engine
 | 分类 | 标题  |
 |---|---|
 | 性能优化 | [Parallel WAL Recovery for X-Engine](http://mysql.taobao.org/monthly/2020/09/03/) |
+| 引擎特性 | [并行DDL](http://mysql.taobao.org/monthly/2021/01/07/) |
 
 # PolarDB
 | 分类 | 标题  |
@@ -777,6 +783,8 @@
 | 引擎特性 | [物理复制解读](http://mysql.taobao.org/monthly/2018/12/05/) |
 | 引擎特性 | [历史库](http://mysql.taobao.org/monthly/2020/12/04/) |
 | 性能优化 | [敢问路在何方 — 论B+树索引的演进方向（中）](http://mysql.taobao.org/monthly/2019/02/01/) |
+| 源码分析 | [深度解析PolarDB的并行查询引擎](http://mysql.taobao.org/monthly/2021/01/01/) |
+| 优化改进 | [DDL的优化和演进](http://mysql.taobao.org/monthly/2021/01/03/) |
 
 # AliSQL
 | 分类 | 标题  |
