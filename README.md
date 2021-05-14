@@ -376,6 +376,7 @@
 | 源码阅读 | [MySQL8.0 innodb锁相关](http://mysql.taobao.org/monthly/2021/02/08/) |
 | 源码阅读 | [Decimal 的实现方法](http://mysql.taobao.org/monthly/2021/03/02/) |
 | 源码阅读 | [白话Online DDL](http://mysql.taobao.org/monthly/2021/03/06/) |
+| 源码阅读 | [Window function解析](http://mysql.taobao.org/monthly/2021/04/06/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
 | 社区贡献 | [AliSQL那些事儿](http://mysql.taobao.org/monthly/2016/09/01/) |
@@ -434,6 +435,7 @@
 | 产品特性 | [RDS三节点企业版的高可用体系](http://mysql.taobao.org/monthly/2020/03/03/) |
 | 内核分析 | [InnoDB mutex 实现分析](http://mysql.taobao.org/monthly/2020/03/05/) |
 | 内核分析 | [InnoDB 的统计信息](http://mysql.taobao.org/monthly/2020/03/08/) |
+| 内核分析 | [InnoDB主键约束和唯一约束的实现分析](http://mysql.taobao.org/monthly/2021/04/05/) |
 | 内核特性 | [InnoDB btree latch 优化历程](http://mysql.taobao.org/monthly/2020/06/02/) |
 | 内核特性 | [Attachable transaction](http://mysql.taobao.org/monthly/2020/06/03/) |
 | 内核特性 | [Link buf](http://mysql.taobao.org/monthly/2020/06/04/) |
@@ -441,7 +443,10 @@
 | 内核特性 | [semi-join四个执行strategy](http://mysql.taobao.org/monthly/2020/07/04/) |
 | 内核特性 | [Redo Logging动态开关](http://mysql.taobao.org/monthly/2020/08/03/) |
 | 内核特性 | [统计信息的现状和发展](http://mysql.taobao.org/monthly/2020/12/05/) |
+| 内核特性 | [Automatic connection failover](http://mysql.taobao.org/monthly/2021/04/01/) |
 | 分布式系统 | [一致性协议under the hood](http://mysql.taobao.org/monthly/2020/09/02/) |
+| 资源管理 | [PFS内存管理分析](http://mysql.taobao.org/monthly/2021/04/03/) |
+| HTAP | [分析型执行引擎](http://mysql.taobao.org/monthly/2021/04/04/) |
 
 # PostgreSQL
 | 分类 | 标题  |
@@ -627,6 +632,7 @@
 | 同步工具 | [MongoShake原理分析](http://mysql.taobao.org/monthly/2019/03/02/) |
 | 应用案例 | [killOp 案例详解](http://mysql.taobao.org/monthly/2019/05/07/) |
 | 内核特性 | [wiredtiger page逐出](http://mysql.taobao.org/monthly/2020/07/02/) |
+| 内核特性 | [一致性模型设计与实现](http://mysql.taobao.org/monthly/2021/04/02/) |
 
 # SQL Server
 | 分类 | 标题  |
