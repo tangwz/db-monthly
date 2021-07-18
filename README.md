@@ -111,7 +111,7 @@
 | 性能优化 | [CloudDBA SQL优化建议之统计信息获取](http://mysql.taobao.org/monthly/2017/10/02/) |
 | 性能优化 | [PageCache优化管理](http://mysql.taobao.org/monthly/2020/09/01/) |
 | 性能优化 | [InnoDB 事务 sharded 锁系统优化](http://mysql.taobao.org/monthly/2021/02/04/) |
-| 性能优化 | [死锁检测](http://mysql.taobao.org/monthly/2021/05/02/) |
+| 性能优化 | [Undo Log IO优化](http://mysql.taobao.org/monthly/2021/06/01/) |
 | 踩过的坑 | [5.6 GTID 和存储引擎那会事](http://mysql.taobao.org/monthly/2014/12/02/) |
 | 答疑释惑 | [binlog event有序性](http://mysql.taobao.org/monthly/2014/12/05/) |
 | 答疑释惑 | [server_id为0的Rotate](http://mysql.taobao.org/monthly/2014/12/06/) |
