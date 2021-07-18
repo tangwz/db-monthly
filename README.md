@@ -111,6 +111,7 @@
 | 性能优化 | [CloudDBA SQL优化建议之统计信息获取](http://mysql.taobao.org/monthly/2017/10/02/) |
 | 性能优化 | [PageCache优化管理](http://mysql.taobao.org/monthly/2020/09/01/) |
 | 性能优化 | [InnoDB 事务 sharded 锁系统优化](http://mysql.taobao.org/monthly/2021/02/04/) |
+| 性能优化 | [死锁检测](http://mysql.taobao.org/monthly/2021/05/02/) |
 | 踩过的坑 | [5.6 GTID 和存储引擎那会事](http://mysql.taobao.org/monthly/2014/12/02/) |
 | 答疑释惑 | [binlog event有序性](http://mysql.taobao.org/monthly/2014/12/05/) |
 | 答疑释惑 | [server_id为0的Rotate](http://mysql.taobao.org/monthly/2014/12/06/) |
@@ -223,6 +224,7 @@
 | 引擎特性 | [InnoDB隐式锁功能解析](http://mysql.taobao.org/monthly/2020/09/06/) |
 | 引擎特性 | [page cleaner 算法](http://mysql.taobao.org/monthly/2020/12/03/) |
 | 引擎特性 | [InnoDB Faster truncate/drop table space](http://mysql.taobao.org/monthly/2021/03/01/) |
+| 引擎特性 | [死锁检测](http://mysql.taobao.org/monthly/2021/05/02/) |
 | 专家投稿 | [MySQL数据库SYS CPU高的可能性分析](http://mysql.taobao.org/monthly/2015/05/02/) |
 | 专家投稿 | [MySQL5.7 的 JSON 实现](http://mysql.taobao.org/monthly/2016/01/03/) |
 | 答疑解惑 | [InnoDB 预读 VS Oracle 多块读](http://mysql.taobao.org/monthly/2015/05/04/) |
@@ -366,6 +368,9 @@
 | 源码分析 | [MySQL Statement Digest](http://mysql.taobao.org/monthly/2020/11/01/) |
 | 源码分析 | [8.0 · DDL的那些事](http://mysql.taobao.org/monthly/2020/05/05/) |
 | 源码分析 | [Group by优化逻辑代码分析](http://mysql.taobao.org/monthly/2021/02/06/) |
+| 源码分析 | [Semi-join优化与执行逻辑](http://mysql.taobao.org/monthly/2021/06/02/) |
+| 源码分析 | [Range (Min-Max Tree)结构分析](http://mysql.taobao.org/monthly/2021/06/03/) |
+| 源码分析 | [Order By优化逻辑代码分析](http://mysql.taobao.org/monthly/2021/06/04/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -444,6 +449,7 @@
 | 内核特性 | [Redo Logging动态开关](http://mysql.taobao.org/monthly/2020/08/03/) |
 | 内核特性 | [统计信息的现状和发展](http://mysql.taobao.org/monthly/2020/12/05/) |
 | 内核特性 | [Automatic connection failover](http://mysql.taobao.org/monthly/2021/04/01/) |
+| 内核特性 | [直方图](http://mysql.taobao.org/monthly/2021/05/03/) |
 | 分布式系统 | [一致性协议under the hood](http://mysql.taobao.org/monthly/2020/09/02/) |
 | 资源管理 | [PFS内存管理分析](http://mysql.taobao.org/monthly/2021/04/03/) |
 | HTAP | [分析型执行引擎](http://mysql.taobao.org/monthly/2021/04/04/) |
@@ -806,6 +812,7 @@
 | 优化改进 | [DDL的优化和演进](http://mysql.taobao.org/monthly/2021/01/03/) |
 | 优化改进 | [使用窗口聚合函数来将子查询解关联](http://mysql.taobao.org/monthly/2021/02/09/)
 | 特性分析 | [Explain Format Tree 详解](http://mysql.taobao.org/monthly/2021/02/01/) |
+| 新特性| [路在脚下, 从BTree 到Polar Index](http://mysql.taobao.org/monthly/2021/05/01/) |
 
 # AliSQL
 | 分类 | 标题  |
