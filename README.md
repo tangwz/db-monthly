@@ -2,12 +2,10 @@
 
 <p align='center'>
 <a href="https://github.com/tangwz/db-monthly" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/tangwz/db-monthly?label=Stars&style=flat-square&logo=GitHub"></a>
+<a href="https://mp.weixin.qq.com/s/EcUrneGq_s2sPMxpUoHtWA" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-@%E5%A4%9A%E9%A2%97%E7%B3%96-000000.svg?style=flat-square&logo=WeChat">
 <a href="https://www.zhihu.com/people/duoketang" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@tangwz-000000.svg?style=flat-square&logo=Zhihu"></a>
 <a href="https://space.bilibili.com/19041535" target="_blank"><img src="https://img.shields.io/badge/B%E7%AB%99-@%E5%A4%9A%E9%A2%97%E7%B3%96-000000.svg?style=flat-square&logo=Bilibili"></a>
 </p>
-
-![](images/duoketang.png)
-
 
 * [MySQL](#mysql)
 * [PostgreSQL](#postgresql)
@@ -258,6 +256,7 @@
 | TokuDB | [checkpoint过程](http://mysql.taobao.org/monthly/2016/06/06/) |
 | TokuDB | [rbtree block allocator](http://mysql.taobao.org/monthly/2016/11/03/) |
 | 功能介绍 | [binlog拉取速度的控制](http://mysql.taobao.org/monthly/2015/07/09/) |
+| 功能介绍 | [GIS功能介绍](http://mysql.taobao.org/monthly/2021/07/06/) |
 | 功能分析 | [5.6 并行复制实现分析](http://mysql.taobao.org/monthly/2015/08/09/) |
 | 功能分析 | [MySQL表定义缓存](http://mysql.taobao.org/monthly/2015/08/10/) |
 | 特性分析 | [5.6 并行复制恢复实现](http://mysql.taobao.org/monthly/2015/09/07/) |
@@ -371,6 +370,10 @@
 | 源码分析 | [Semi-join优化与执行逻辑](http://mysql.taobao.org/monthly/2021/06/02/) |
 | 源码分析 | [Range (Min-Max Tree)结构分析](http://mysql.taobao.org/monthly/2021/06/03/) |
 | 源码分析 | [Order By优化逻辑代码分析](http://mysql.taobao.org/monthly/2021/06/04/) |
+| 源码分析 | [btr_cur_search_to_nth_level 函数分析](http://mysql.taobao.org/monthly/2021/07/02/) |
+| 源码分析 | [条件优化与执行分析](http://mysql.taobao.org/monthly/2021/07/04/) |
+| 源码分析 | [DDL log与原子DDL的实现](http://mysql.taobao.org/monthly/2021/07/05/) |
+| 源码分析 | [临时表与TempTable存储引擎Allocator](http://mysql.taobao.org/monthly/2021/07/07/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -581,6 +584,7 @@
 | 内核解析 | [同步流复制实现分析](http://mysql.taobao.org/monthly/2018/01/03/) |
 | 内核优化 | [Hybrid DB for PG 赋能向量化执行和查询子树封装](http://mysql.taobao.org/monthly/2018/03/05/) |
 | 内核特性 | [RDS PostgreSQL 高并发场景下提高系统吞吐量](http://mysql.taobao.org/monthly/2018/06/07/) |
+| 内核特性 | [死锁检测与解决](http://mysql.taobao.org/monthly/2021/07/03/) |
 | 新特征 | [PG11并行Hash Join介绍](http://mysql.taobao.org/monthly/2018/07/06/) |
 | 新增特性 | [PG 13 新特性](http://mysql.taobao.org/monthly/2021/01/08/) |
 | 引擎特性 | [PostgreSQL Hint Bits 简介](http://mysql.taobao.org/monthly/2018/12/02/) |
@@ -807,6 +811,7 @@
 | 引擎特性 | [物理复制解读](http://mysql.taobao.org/monthly/2018/12/05/) |
 | 引擎特性 | [历史库](http://mysql.taobao.org/monthly/2020/12/04/) |
 | 引擎特性 | [物理复制热点页优化](http://mysql.taobao.org/monthly/2021/03/04/) |
+| 引擎特性 | [Logic Redo](http://mysql.taobao.org/monthly/2021/07/01/) |
 | 性能优化 | [敢问路在何方 — 论B+树索引的演进方向（中）](http://mysql.taobao.org/monthly/2019/02/01/) |
 | 源码分析 | [深度解析PolarDB的并行查询引擎](http://mysql.taobao.org/monthly/2021/01/01/) |
 | 优化改进 | [DDL的优化和演进](http://mysql.taobao.org/monthly/2021/01/03/) |
