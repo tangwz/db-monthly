@@ -374,6 +374,8 @@
 | 源码分析 | [条件优化与执行分析](http://mysql.taobao.org/monthly/2021/07/04/) |
 | 源码分析 | [DDL log与原子DDL的实现](http://mysql.taobao.org/monthly/2021/07/05/) |
 | 源码分析 | [临时表与TempTable存储引擎Allocator](http://mysql.taobao.org/monthly/2021/07/07/) |
+| 源码分析 | [详解 Data Dictionary](http://mysql.taobao.org/monthly/2021/08/02/) |
+| 源码分析 | [参数解析流程](http://mysql.taobao.org/monthly/2021/08/04/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -387,6 +389,7 @@
 | 源码阅读 | [Window function解析](http://mysql.taobao.org/monthly/2021/04/06/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
+| 最佳实战 | [SQL编码转换浅析](http://mysql.taobao.org/monthly/2021/08/01/) |
 | 社区贡献 | [AliSQL那些事儿](http://mysql.taobao.org/monthly/2016/09/01/) |
 | 捉虫状态 | [bug分析两例](http://mysql.taobao.org/monthly/2016/09/06/) |
 | myrocks | [data dictionary 分析](http://mysql.taobao.org/monthly/2016/10/05/) |
@@ -792,6 +795,7 @@
 | 最佳实践 | [高性能 Hash Join 算法实现简述](http://mysql.taobao.org/monthly/2021/01/05/) |
 | 社区动态 | [数据库中的表达式](http://mysql.taobao.org/monthly/2021/02/05/) |
 | 引擎特性 | [OLAP/HTAP列式存储引擎概述](http://mysql.taobao.org/monthly/2021/03/05/) |
+| 引擎分析 | [POLARIS 基于单机数据库扩展的分布式查询处理引擎](http://mysql.taobao.org/monthly/2021/08/03/) |
 
 # X-Engine
 | 分类 | 标题  |
