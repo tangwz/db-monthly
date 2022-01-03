@@ -393,6 +393,7 @@
 | 源码阅读 | [Decimal 的实现方法](http://mysql.taobao.org/monthly/2021/03/02/) |
 | 源码阅读 | [白话Online DDL](http://mysql.taobao.org/monthly/2021/03/06/) |
 | 源码阅读 | [Window function解析](http://mysql.taobao.org/monthly/2021/04/06/) |
+| 源码阅读 | [MySQL 如何响应 KILL](http://mysql.taobao.org/monthly/2021/11/03/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
 | 源码详解 | [mini transaction详解](http://mysql.taobao.org/monthly/2021/09/04/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
@@ -466,6 +467,7 @@
 | 分布式系统 | [一致性协议under the hood](http://mysql.taobao.org/monthly/2020/09/02/) |
 | 资源管理 | [PFS内存管理分析](http://mysql.taobao.org/monthly/2021/04/03/) |
 | HTAP | [分析型执行引擎](http://mysql.taobao.org/monthly/2021/04/04/) |
+| 周边工具 | [MySQL InnoDB inno_space 工具介绍](http://mysql.taobao.org/monthly/2021/11/02/) |
 
 # PostgreSQL
 | 分类 | 标题  |
@@ -825,6 +827,7 @@
 | 引擎特性 | [物理复制热点页优化](http://mysql.taobao.org/monthly/2021/03/04/) |
 | 引擎特性 | [Logic Redo](http://mysql.taobao.org/monthly/2021/07/01/) |
 | 引擎特性 | [DDL物理复制优化](http://mysql.taobao.org/monthly/2021/09/02/) |
+| 引擎特性 | [闪回查询让历史随时可见](http://mysql.taobao.org/monthly/2021/11/01/) |
 | 性能优化 | [敢问路在何方 — 论B+树索引的演进方向（中）](http://mysql.taobao.org/monthly/2019/02/01/) |
 | 源码分析 | [深度解析PolarDB的并行查询引擎](http://mysql.taobao.org/monthly/2021/01/01/) |
 | 优化改进 | [DDL的优化和演进](http://mysql.taobao.org/monthly/2021/01/03/) |
