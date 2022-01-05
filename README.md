@@ -224,6 +224,7 @@
 | 引擎特性 | [InnoDB Faster truncate/drop table space](http://mysql.taobao.org/monthly/2021/03/01/) |
 | 引擎特性 | [死锁检测](http://mysql.taobao.org/monthly/2021/05/02/) |
 | 引擎特性 | [庖丁解InnoDB之UNDO LOG](http://mysql.taobao.org/monthly/2021/10/01/)
+| 引擎特性 | [InnoDB之UNDO LOG介绍](http://mysql.taobao.org/monthly/2021/12/02/)
 | 专家投稿 | [MySQL数据库SYS CPU高的可能性分析](http://mysql.taobao.org/monthly/2015/05/02/) |
 | 专家投稿 | [MySQL5.7 的 JSON 实现](http://mysql.taobao.org/monthly/2016/01/03/) |
 | 答疑解惑 | [InnoDB 预读 VS Oracle 多块读](http://mysql.taobao.org/monthly/2015/05/04/) |
@@ -604,6 +605,7 @@
 | 引擎特性 | [多版本并发控制介绍及实例分析](http://mysql.taobao.org/monthly/2019/08/01/) |
 | 引擎特性 | [PostgreSQL 通信协议](http://mysql.taobao.org/monthly/2020/03/02/) |
 | 引擎特性 | [SQL防火墙使用说明与内核浅析](http://mysql.taobao.org/monthly/2020/07/06/) |
+| 引擎特性 | [PostgreSQL 14 新特性浅析](http://mysql.taobao.org/monthly/2021/12/01/) |
 | 原理介绍 | [PostgreSQL行锁实现](http://mysql.taobao.org/monthly/2018/12/07/) |
 | 原理介绍 | [PostgreSQL中的空闲空间管理](http://mysql.taobao.org/monthly/2019/03/06/) |
 | 源码解析 | [Json — 从使用到源码](http://mysql.taobao.org/monthly/2019/02/07/) |
@@ -828,6 +830,8 @@
 | 引擎特性 | [Logic Redo](http://mysql.taobao.org/monthly/2021/07/01/) |
 | 引擎特性 | [DDL物理复制优化](http://mysql.taobao.org/monthly/2021/09/02/) |
 | 引擎特性 | [闪回查询让历史随时可见](http://mysql.taobao.org/monthly/2021/11/01/) |
+| 引擎特性 | [Nonblock add column](http://mysql.taobao.org/monthly/2021/12/03/) |
+| 引擎特性 | [B-tree 并发控制优化](http://mysql.taobao.org/monthly/2021/12/04/) |
 | 性能优化 | [敢问路在何方 — 论B+树索引的演进方向（中）](http://mysql.taobao.org/monthly/2019/02/01/) |
 | 源码分析 | [深度解析PolarDB的并行查询引擎](http://mysql.taobao.org/monthly/2021/01/01/) |
 | 优化改进 | [DDL的优化和演进](http://mysql.taobao.org/monthly/2021/01/03/) |
