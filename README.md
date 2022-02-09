@@ -225,6 +225,7 @@
 | 引擎特性 | [死锁检测](http://mysql.taobao.org/monthly/2021/05/02/) |
 | 引擎特性 | [庖丁解InnoDB之UNDO LOG](http://mysql.taobao.org/monthly/2021/10/01/)
 | 引擎特性 | [InnoDB之UNDO LOG介绍](http://mysql.taobao.org/monthly/2021/12/02/)
+| 引擎特性 | [Redo Log record编码格式](http://mysql.taobao.org/monthly/2022/01/02/)
 | 专家投稿 | [MySQL数据库SYS CPU高的可能性分析](http://mysql.taobao.org/monthly/2015/05/02/) |
 | 专家投稿 | [MySQL5.7 的 JSON 实现](http://mysql.taobao.org/monthly/2016/01/03/) |
 | 答疑解惑 | [InnoDB 预读 VS Oracle 多块读](http://mysql.taobao.org/monthly/2015/05/04/) |
@@ -383,6 +384,7 @@
 | 源码分析 | [BLOB字段UPDATE流程分析](http://mysql.taobao.org/monthly/2021/10/03/) |
 | 源码分析 | [着MySQL 8.0 学 C++：scope_guard](http://mysql.taobao.org/monthly/2021/10/04/) |
 | 源码分析 | [CSV 引擎详解](http://mysql.taobao.org/monthly/2021/10/05/) |
+| 源码分析 | [TABLE信息的生命周期](http://mysql.taobao.org/monthly/2022/01/04/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -699,6 +701,7 @@
 | 最佳实践 | [TEMPDB的设计](http://mysql.taobao.org/monthly/2016/09/10/) |
 | 最佳实战 | [巧用COLUMNS_UPDATED获取数据变更](http://mysql.taobao.org/monthly/2016/11/08/) |
 | BUG分析 | [Agent 链接泄露分析](http://mysql.taobao.org/monthly/2016/03/04/) |
+| 引擎特性 | [从SQL Server看列式存储](http://mysql.taobao.org/monthly/2022/01/03/) |
 
 # MariaDB
 | 分类 | 标题  |
@@ -793,6 +796,7 @@
 | 理论基础 | [ARIES/IM (一)](http://mysql.taobao.org/monthly/2020/05/03/) |
 | 理论基础 | [B-tree 物理结构的并发控制](http://mysql.taobao.org/monthly/2020/11/02/) |
 | 理论基础 | [Raft phd 论文中的pipeline 优化](http://mysql.taobao.org/monthly/2019/03/08/) |
+| 理论基础 | [B+树数据库加锁历史](http://mysql.taobao.org/monthly/2022/01/) |
 | 原理介绍 | [Google Percolator 分布式事务实现原理解读](http://mysql.taobao.org/monthly/2018/11/02/) |
 | 原理介绍 | [关于Paxos 幽灵复现问题](http://mysql.taobao.org/monthly/2018/11/03/) |
 | 原理介绍 | [数据库的事务与复制](http://mysql.taobao.org/monthly/2018/12/01/) |
