@@ -332,6 +332,7 @@
 | 最佳实践 | [RDS 三节点企业版热点组提交](http://mysql.taobao.org/monthly/2020/02/03/) |
 | 最佳实践 | [X-Engine并行扫描](http://mysql.taobao.org/monthly/2020/04/03/) |
 | 最佳实践 | [How to read the lock information from debugger](http://mysql.taobao.org/monthly/2020/10/03/) |
+| 最佳实践 | [一次InnoDB死锁Bug排查](http://mysql.taobao.org/monthly/2022/02/01/) |
 | 源码分析 | [网络通信模块浅析](http://mysql.taobao.org/monthly/2016/07/04/) |
 | 源码分析 | [Query Cache内部剖析](http://mysql.taobao.org/monthly/2016/07/09/) |
 | 源码分析 | [无法revoke单库或单表权限](http://mysql.taobao.org/monthly/2016/10/06/) |
@@ -797,6 +798,7 @@
 | 理论基础 | [B-tree 物理结构的并发控制](http://mysql.taobao.org/monthly/2020/11/02/) |
 | 理论基础 | [Raft phd 论文中的pipeline 优化](http://mysql.taobao.org/monthly/2019/03/08/) |
 | 理论基础 | [B+树数据库加锁历史](http://mysql.taobao.org/monthly/2022/01/) |
+| 理论基础 | [热点优化 (SIGMOD'21 Paper 解读)](http://mysql.taobao.org/monthly/2022/02/03/) |
 | 原理介绍 | [Google Percolator 分布式事务实现原理解读](http://mysql.taobao.org/monthly/2018/11/02/) |
 | 原理介绍 | [关于Paxos 幽灵复现问题](http://mysql.taobao.org/monthly/2018/11/03/) |
 | 原理介绍 | [数据库的事务与复制](http://mysql.taobao.org/monthly/2018/12/01/) |
@@ -812,6 +814,7 @@
 | 引擎特性 | [OLAP/HTAP列式存储引擎概述](http://mysql.taobao.org/monthly/2021/03/05/) |
 | 引擎分析 | [POLARIS 基于单机数据库扩展的分布式查询处理引擎](http://mysql.taobao.org/monthly/2021/08/03/) |
 | 数据库系统 | [事物并发控制 · Two-phase Lock Protocol](http://mysql.taobao.org/monthly/2021/10/02/) |
+| 存储引擎 | [HTAP列存引擎探秘](http://mysql.taobao.org/monthly/2022/02/02/) |
 
 # X-Engine
 | 分类 | 标题  |
