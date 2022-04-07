@@ -386,6 +386,7 @@
 | 源码分析 | [着MySQL 8.0 学 C++：scope_guard](http://mysql.taobao.org/monthly/2021/10/04/) |
 | 源码分析 | [CSV 引擎详解](http://mysql.taobao.org/monthly/2021/10/05/) |
 | 源码分析 | [TABLE信息的生命周期](http://mysql.taobao.org/monthly/2022/01/04/) |
+| 源码分析 | [Row log分析](http://mysql.taobao.org/monthly/2022/03/02/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -398,6 +399,7 @@
 | 源码阅读 | [白话Online DDL](http://mysql.taobao.org/monthly/2021/03/06/) |
 | 源码阅读 | [Window function解析](http://mysql.taobao.org/monthly/2021/04/06/) |
 | 源码阅读 | [MySQL 如何响应 KILL](http://mysql.taobao.org/monthly/2021/11/03/) |
+| 源码阅读 | [Purge sys介绍](http://mysql.taobao.org/monthly/2022/03/01/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
 | 源码详解 | [mini transaction详解](http://mysql.taobao.org/monthly/2021/09/04/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
