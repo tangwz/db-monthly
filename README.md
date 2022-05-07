@@ -399,6 +399,9 @@
 | 源码阅读 | [Window function解析](http://mysql.taobao.org/monthly/2021/04/06/) |
 | 源码阅读 | [MySQL 如何响应 KILL](http://mysql.taobao.org/monthly/2021/11/03/) |
 | 源码阅读 | [Purge sys介绍](http://mysql.taobao.org/monthly/2022/03/01/) |
+| 源码阅读 | [数据库的扫描方法](http://mysql.taobao.org/monthly/2022/04/01/) |
+| 源码阅读 | [mysqld_safe的代码考古](http://mysql.taobao.org/monthly/2022/04/03/) |
+| 源码阅读 | [非阻塞异步C API简介](http://mysql.taobao.org/monthly/2022/04/04/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
 | 源码详解 | [mini transaction详解](http://mysql.taobao.org/monthly/2021/09/04/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
@@ -451,6 +454,7 @@
 | 原理介绍 | [再议MySQL的故障恢复](http://mysql.taobao.org/monthly/2018/12/04/) |
 | InnoDB | [tablespace源码分析](http://mysql.taobao.org/monthly/2019/01/08/) |
 | InnoDB | [Redo log](http://mysql.taobao.org/monthly/2019/03/03/) |
+| InnoDB | [Instant DDL扩展](http://mysql.taobao.org/monthly/2022/04/05/) |
 | Optimizer | [Parallel Index Scans, One is Better Than Two](http://mysql.taobao.org/monthly/2019/10/03/) |
 | Optimizer | [Optimizer Hints](http://mysql.taobao.org/monthly/2020/09/07/) |
 | 新特征 | [MySQL 哈希连接实现介绍](http://mysql.taobao.org/monthly/2019/11/02/) |
@@ -723,7 +727,8 @@
 | 新特性 | [窗口函数](http://mysql.taobao.org/monthly/2016/06/05/) |
 | 源码分析 | [thread pool](http://mysql.taobao.org/monthly/2018/03/09/) 
 | 源码分析 | [proxy protocol](http://mysql.taobao.org/monthly/2019/01/07/) |
-
+| 功能特性 | [无DDL延迟的主备复制](http://mysql.taobao.org/monthly/2022/04/02/) |
+  
 # TokuDB
 | 分类 | 标题  |
 |---|---|
