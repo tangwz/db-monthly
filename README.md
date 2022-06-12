@@ -225,6 +225,9 @@
 | 引擎特性 | [庖丁解InnoDB之UNDO LOG](http://mysql.taobao.org/monthly/2021/10/01/)
 | 引擎特性 | [InnoDB之UNDO LOG介绍](http://mysql.taobao.org/monthly/2021/12/02/)
 | 引擎特性 | [Redo Log record编码格式](http://mysql.taobao.org/monthly/2022/01/02/)
+| 引擎特性 | [InnoDB Physiological logging 原理分析](http://mysql.taobao.org/monthly/2022/05/01/)
+| 引擎特性 | [InnoDB unique check 的问题](http://mysql.taobao.org/monthly/2022/05/02/)
+| 引擎特性 | [LOB 物理结构](http://mysql.taobao.org/monthly/2022/05/03/)
 | 专家投稿 | [MySQL数据库SYS CPU高的可能性分析](http://mysql.taobao.org/monthly/2015/05/02/) |
 | 专家投稿 | [MySQL5.7 的 JSON 实现](http://mysql.taobao.org/monthly/2016/01/03/) |
 | 答疑解惑 | [InnoDB 预读 VS Oracle 多块读](http://mysql.taobao.org/monthly/2015/05/04/) |
@@ -477,6 +480,7 @@
 | 资源管理 | [PFS内存管理分析](http://mysql.taobao.org/monthly/2021/04/03/) |
 | HTAP | [分析型执行引擎](http://mysql.taobao.org/monthly/2021/04/04/) |
 | 周边工具 | [MySQL InnoDB inno_space 工具介绍](http://mysql.taobao.org/monthly/2021/11/02/) |
+| | [undolog 的purge](http://mysql.taobao.org/monthly/2022/05/04/) |
 
 # PostgreSQL
 | 分类 | 标题  |
