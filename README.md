@@ -228,6 +228,8 @@
 | 引擎特性 | [InnoDB Physiological logging 原理分析](http://mysql.taobao.org/monthly/2022/05/01/)
 | 引擎特性 | [InnoDB unique check 的问题](http://mysql.taobao.org/monthly/2022/05/02/)
 | 引擎特性 | [LOB 物理结构](http://mysql.taobao.org/monthly/2022/05/03/)
+| 引擎特性 | [PolarDB-CloudJump：优化基于云存储服务的云数据库(发表于VLDB 2022)](http://mysql.taobao.org/monthly/2022/06/01/)
+| 引擎特性 | [通过performance_schema 定量分析系统瓶颈](http://mysql.taobao.org/monthly/2022/06/02/)
 | 专家投稿 | [MySQL数据库SYS CPU高的可能性分析](http://mysql.taobao.org/monthly/2015/05/02/) |
 | 专家投稿 | [MySQL5.7 的 JSON 实现](http://mysql.taobao.org/monthly/2016/01/03/) |
 | 答疑解惑 | [InnoDB 预读 VS Oracle 多块读](http://mysql.taobao.org/monthly/2015/05/04/) |
@@ -405,6 +407,7 @@
 | 源码阅读 | [数据库的扫描方法](http://mysql.taobao.org/monthly/2022/04/01/) |
 | 源码阅读 | [mysqld_safe的代码考古](http://mysql.taobao.org/monthly/2022/04/03/) |
 | 源码阅读 | [非阻塞异步C API简介](http://mysql.taobao.org/monthly/2022/04/04/) |
+| 源码阅读 | [RAND 表达式](http://mysql.taobao.org/monthly/2022/06/03/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
 | 源码详解 | [mini transaction详解](http://mysql.taobao.org/monthly/2021/09/04/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
@@ -480,7 +483,9 @@
 | 资源管理 | [PFS内存管理分析](http://mysql.taobao.org/monthly/2021/04/03/) |
 | HTAP | [分析型执行引擎](http://mysql.taobao.org/monthly/2021/04/04/) |
 | 周边工具 | [MySQL InnoDB inno_space 工具介绍](http://mysql.taobao.org/monthly/2021/11/02/) |
+| 分区表特性 | [一致性哈希算法应用](http://mysql.taobao.org/monthly/2022/06/05/) |
 | | [undolog 的purge](http://mysql.taobao.org/monthly/2022/05/04/) |
+| | [MySQL中的HyperGraph优化器](http://mysql.taobao.org/monthly/2022/06/04/) |
 
 # PostgreSQL
 | 分类 | 标题  |
@@ -855,6 +860,8 @@
 | 优化改进 | [使用窗口聚合函数来将子查询解关联](http://mysql.taobao.org/monthly/2021/02/09/)
 | 特性分析 | [Explain Format Tree 详解](http://mysql.taobao.org/monthly/2021/02/01/) |
 | 新特性| [路在脚下, 从BTree 到Polar Index](http://mysql.taobao.org/monthly/2021/05/01/) |
+| 性能大赛| [云原生共享内存数据库性能优化](http://mysql.taobao.org/monthly/2022/06/06/) |
+
 
 # AliSQL
 | 分类 | 标题  |
