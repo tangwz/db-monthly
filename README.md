@@ -391,6 +391,7 @@
 | 源码分析 | [CSV 引擎详解](http://mysql.taobao.org/monthly/2021/10/05/) |
 | 源码分析 | [TABLE信息的生命周期](http://mysql.taobao.org/monthly/2022/01/04/) |
 | 源码分析 | [Row log分析](http://mysql.taobao.org/monthly/2022/03/02/) |
+| 源码分析 | [innodb 空间索引实现](http://mysql.taobao.org/monthly/2022/08/04/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -485,6 +486,7 @@
 | 周边工具 | [MySQL InnoDB inno_space 工具介绍](http://mysql.taobao.org/monthly/2021/11/02/) |
 | 分区表特性 | [一致性哈希算法应用](http://mysql.taobao.org/monthly/2022/06/05/) |
 | 行业洞察 | [为什么游戏行业喜欢用PolarDB](http://mysql.taobao.org/monthly/2022/07/01/) |
+| 行业洞察 | [长路漫漫, 从Blink-tree 到Bw-tree (上)](http://mysql.taobao.org/monthly/2022/08/02/) |
 | | [undolog 的purge](http://mysql.taobao.org/monthly/2022/05/04/) |
 | | [MySQL中的HyperGraph优化器](http://mysql.taobao.org/monthly/2022/06/04/) |
 
@@ -857,6 +859,7 @@
 | 引擎特性 | [Nonblock add column](http://mysql.taobao.org/monthly/2021/12/03/) |
 | 引擎特性 | [B-tree 并发控制优化](http://mysql.taobao.org/monthly/2021/12/04/) |
 | 引擎特性 | [PolarDB备份与恢复介绍](http://mysql.taobao.org/monthly/2022/07/02/) |
+| 引擎特性 | [内核原生的全局索引支持](http://mysql.taobao.org/monthly/2022/08/03/) |
 | 性能优化 | [敢问路在何方 — 论B+树索引的演进方向（中）](http://mysql.taobao.org/monthly/2019/02/01/) |
 | 源码分析 | [深度解析PolarDB的并行查询引擎](http://mysql.taobao.org/monthly/2021/01/01/) |
 | 优化改进 | [DDL的优化和演进](http://mysql.taobao.org/monthly/2021/01/03/) |
@@ -865,6 +868,7 @@
 | 新特性| [路在脚下, 从BTree 到Polar Index](http://mysql.taobao.org/monthly/2021/05/01/) |
 | 性能大赛| [云原生共享内存数据库性能优化](http://mysql.taobao.org/monthly/2022/06/06/) |
 | Serverless之路 | [无感秒切](http://mysql.taobao.org/monthly/2022/07/03/) |
+| HTAP | [浅析IMCI的列存数据压缩](http://mysql.taobao.org/monthly/2022/08/01/) |
 
 
 # AliSQL
