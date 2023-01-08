@@ -496,7 +496,10 @@
 | | [UNDO LOG的演进与现状](http://mysql.taobao.org/monthly/2022/10/02/) |
 | | [深潜 - 统计信息采集](http://mysql.taobao.org/monthly/2022/10/05/) |
 | | [MySQL内存分配与管理（1）](http://mysql.taobao.org/monthly/2022/11/02/) |
-
+| | [MySQL Temporal Data Types](http://mysql.taobao.org/monthly/2022/12/02/) |
+| | [Innodb 中的 Btree 实现 (一) · 引言 & insert 篇](http://mysql.taobao.org/monthly/2022/12/03/) |
+| | [MySQL · 业务场景 · 业务并发扣款，金额未扣](http://mysql.taobao.org/monthly/2022/12/04/) |
+  
 # PostgreSQL
 | 分类 | 标题  |
 |---|---|
@@ -886,8 +889,12 @@
 | 引擎特性 | [内核原生的全局索引支持](http://mysql.taobao.org/monthly/2022/08/03/) |
 | HTAP | [浅析IMCI的列存数据压缩](http://mysql.taobao.org/monthly/2022/08/01/) |
 | 多主架构 | [全局 Binlog 介绍](http://mysql.taobao.org/monthly/2022/09/02/) |
+| 功能特性 | [Fast Query Cache技术详解与最佳实践](http://mysql.taobao.org/monthly/2022/12/05/) |
+| 功能特性 | [大表分页查询优化](http://mysql.taobao.org/monthly/2022/12/06/) |
+| 功能特性 | [SQL Trace](http://mysql.taobao.org/monthly/2022/12/07/) |
 |  | [PolarTrans事务系统介绍(一)](http://mysql.taobao.org/monthly/2022/09/04/) |
 |  | [PolarDB MySQL 大表实践-分区表篇](http://mysql.taobao.org/monthly/2022/11/01/) |
+|  | [PolarDB MySQL 新特性 - Partial Result Cache](http://mysql.taobao.org/monthly/2022/12/01/) |
 
 # AliSQL
 | 分类 | 标题  |
