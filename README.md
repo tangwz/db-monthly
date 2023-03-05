@@ -846,7 +846,8 @@
 | 数据库系统 | [事物并发控制 · Two-phase Lock Protocol](http://mysql.taobao.org/monthly/2021/10/02/) |
 | 存储引擎 | [HTAP列存引擎探秘](http://mysql.taobao.org/monthly/2022/02/02/) |
 | | [B+树数据库故障恢复概述](http://mysql.taobao.org/monthly/2022/10/04/) |
-
+| | [Long-lived Transactions 产生的影响](http://mysql.taobao.org/monthly/2023/02/03/) |
+  
 # X-Engine
 | 分类 | 标题  |
 |---|---|
@@ -882,8 +883,6 @@
 | 功能特性 | [非阻塞DDL](http://mysql.taobao.org/monthly/2022/10/01/) |
 | 功能特性 | [嵌套子查询优化的性能分析](http://mysql.taobao.org/monthly/2022/10/06/) |
 
-
-
 # PolarDB MySQL
 | 分类 | 标题  |
 |---|---|
@@ -893,12 +892,14 @@
 | 功能特性 | [Fast Query Cache技术详解与最佳实践](http://mysql.taobao.org/monthly/2022/12/05/) |
 | 功能特性 | [大表分页查询优化](http://mysql.taobao.org/monthly/2022/12/06/) |
 | 功能特性 | [SQL Trace](http://mysql.taobao.org/monthly/2022/12/07/) |
+| 功能特性 | [大表扫描优化](http://mysql.taobao.org/monthly/2023/02/01/) |
 |  | [PolarTrans事务系统介绍(一)](http://mysql.taobao.org/monthly/2022/09/04/) |
 |  | [PolarDB MySQL 大表实践-分区表篇](http://mysql.taobao.org/monthly/2022/11/01/) |
 |  | [PolarDB MySQL 新特性 - Partial Result Cache](http://mysql.taobao.org/monthly/2022/12/01/) |
 |  | [PolarDB for MySQL 优化器查询变换系列 - IN-List 变换](http://mysql.taobao.org/monthly/2023/01/01/) |
 |  | [PolarDB IMCI 的 TopK 查询执行优化](http://mysql.taobao.org/monthly/2023/01/02/) |
 |  | [库表变更、加锁没审计？PolarDB MySQL 新功能 SQL Detail](http://mysql.taobao.org/monthly/2023/01/03/) |
+|  | [PolarDB MySQL的INTERVAL分区如何让DBA解放双手](http://mysql.taobao.org/monthly/2023/02/02/) |
   
 # AliSQL
 | 分类 | 标题  |
