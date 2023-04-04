@@ -36,6 +36,7 @@
 | 参数故事 | [innodb_flush_log_at_trx_commit](http://mysql.taobao.org/monthly/2014/08/02/) |
 | 参数故事 | [thread_concurrency](http://mysql.taobao.org/monthly/2014/09/05/) |
 | 参数故事 | [innodb_additional_mem_pool_size](http://mysql.taobao.org/monthly/2016/04/01/) |
+| 参数故事 | [max_prepared_stmt_count](http://mysql.taobao.org/monthly/2023/03/04/) |
 | 捉虫动态 | [Count(Distinct) ERROR](http://mysql.taobao.org/monthly/2014/08/03/) |
 | 捉虫动态 | [mysqldump BUFFER OVERFLOW](http://mysql.taobao.org/monthly/2014/08/04/) |
 | 捉虫动态 | [long semaphore waits](http://mysql.taobao.org/monthly/2014/08/05/) |
@@ -882,7 +883,8 @@
 | Serverless之路 | [无感秒切](http://mysql.taobao.org/monthly/2022/07/03/) |
 | 功能特性 | [非阻塞DDL](http://mysql.taobao.org/monthly/2022/10/01/) |
 | 功能特性 | [嵌套子查询优化的性能分析](http://mysql.taobao.org/monthly/2022/10/06/) |
-
+|  | [PolarDB auto_inc 场景性能优化之路](http://mysql.taobao.org/monthly/2023/03/01/) |
+  
 # PolarDB MySQL
 | 分类 | 标题  |
 |---|---|
@@ -900,6 +902,8 @@
 |  | [PolarDB IMCI 的 TopK 查询执行优化](http://mysql.taobao.org/monthly/2023/01/02/) |
 |  | [库表变更、加锁没审计？PolarDB MySQL 新功能 SQL Detail](http://mysql.taobao.org/monthly/2023/01/03/) |
 |  | [PolarDB MySQL的INTERVAL分区如何让DBA解放双手](http://mysql.taobao.org/monthly/2023/02/02/) |
+|  | [PolarDB MySQL · 持续补强的全局二级索引](http://mysql.taobao.org/monthly/2023/03/02/) |
+|  | [PolarDB for MySQL 优化器查询变换系列 - 条件下推](http://mysql.taobao.org/monthly/2023/03/03/) |
   
 # AliSQL
 | 分类 | 标题  |
