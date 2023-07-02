@@ -232,6 +232,7 @@
 | 引擎特性 | [LOB 物理结构](http://mysql.taobao.org/monthly/2022/05/03/)
 | 引擎特性 | [PolarDB-CloudJump：优化基于云存储服务的云数据库(发表于VLDB 2022)](http://mysql.taobao.org/monthly/2022/06/01/)
 | 引擎特性 | [通过performance_schema 定量分析系统瓶颈](http://mysql.taobao.org/monthly/2022/06/02/)
+| 引擎特性 | [PolarDB Innodb刷脏优化](http://mysql.taobao.org/monthly/2023/04/02/)
 | 专家投稿 | [MySQL数据库SYS CPU高的可能性分析](http://mysql.taobao.org/monthly/2015/05/02/) |
 | 专家投稿 | [MySQL5.7 的 JSON 实现](http://mysql.taobao.org/monthly/2016/01/03/) |
 | 答疑解惑 | [InnoDB 预读 VS Oracle 多块读](http://mysql.taobao.org/monthly/2015/05/04/) |
@@ -895,6 +896,7 @@
 | 功能特性 | [大表分页查询优化](http://mysql.taobao.org/monthly/2022/12/06/) |
 | 功能特性 | [SQL Trace](http://mysql.taobao.org/monthly/2022/12/07/) |
 | 功能特性 | [大表扫描优化](http://mysql.taobao.org/monthly/2023/02/01/) |
+| 功能特性 | [Auto Plan Cache](http://mysql.taobao.org/monthly/2023/04/01/) |
 |  | [PolarTrans事务系统介绍(一)](http://mysql.taobao.org/monthly/2022/09/04/) |
 |  | [PolarDB MySQL 大表实践-分区表篇](http://mysql.taobao.org/monthly/2022/11/01/) |
 |  | [PolarDB MySQL 新特性 - Partial Result Cache](http://mysql.taobao.org/monthly/2022/12/01/) |
@@ -904,6 +906,7 @@
 |  | [PolarDB MySQL的INTERVAL分区如何让DBA解放双手](http://mysql.taobao.org/monthly/2023/02/02/) |
 |  | [PolarDB MySQL · 持续补强的全局二级索引](http://mysql.taobao.org/monthly/2023/03/02/) |
 |  | [PolarDB for MySQL 优化器查询变换系列 - 条件下推](http://mysql.taobao.org/monthly/2023/03/03/) |
+|  | [PolarDB MySQL 联邦查询优化特征（条件下推、按需返回列、LIMIT OFFSET下推）](http://mysql.taobao.org/monthly/2023/04/01/) |
   
 # AliSQL
 | 分类 | 标题  |
