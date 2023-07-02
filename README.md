@@ -398,6 +398,7 @@
 | 源码分析 | [innodb-BLOB演进与实现](http://mysql.taobao.org/monthly/2022/09/01/) |
 | 源码分析 | [InnoDB Redo Log 重构](http://mysql.taobao.org/monthly/2022/09/03/) |
 | 源码分析 | [MySQL Event 源码分析](http://mysql.taobao.org/monthly/2022/10/03/) |
+| 源码分析 | [鉴权过程](http://mysql.taobao.org/monthly/2023/05/03/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -416,6 +417,7 @@
 | 源码阅读 | [非阻塞异步C API简介](http://mysql.taobao.org/monthly/2022/04/04/) |
 | 源码阅读 | [RAND 表达式](http://mysql.taobao.org/monthly/2022/06/03/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
+| 源码解析 | [InnoDB中undo日志的组织及实现](http://mysql.taobao.org/monthly/2023/05/01/) |
 | 源码详解 | [mini transaction详解](http://mysql.taobao.org/monthly/2021/09/04/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
 | 最佳实战 | [SQL编码转换浅析](http://mysql.taobao.org/monthly/2021/08/01/) |
@@ -874,6 +876,8 @@
 | 引擎特性 | [Nonblock add column](http://mysql.taobao.org/monthly/2021/12/03/) |
 | 引擎特性 | [B-tree 并发控制优化](http://mysql.taobao.org/monthly/2021/12/04/) |
 | 引擎特性 | [PolarDB备份与恢复介绍](http://mysql.taobao.org/monthly/2022/07/02/) |
+| 引擎特性 | [DDL中MDL锁的优化和演进](http://mysql.taobao.org/monthly/2023/05/02/) |
+| 引擎特性 | [PolarDB IMCI中的行列融合执行](http://mysql.taobao.org/monthly/2023/05/04/) |
 | 性能优化 | [敢问路在何方 — 论B+树索引的演进方向（中）](http://mysql.taobao.org/monthly/2019/02/01/) |
 | 源码分析 | [深度解析PolarDB的并行查询引擎](http://mysql.taobao.org/monthly/2021/01/01/) |
 | 优化改进 | [DDL的优化和演进](http://mysql.taobao.org/monthly/2021/01/03/) |
@@ -897,6 +901,7 @@
 | 功能特性 | [SQL Trace](http://mysql.taobao.org/monthly/2022/12/07/) |
 | 功能特性 | [大表扫描优化](http://mysql.taobao.org/monthly/2023/02/01/) |
 | 功能特性 | [Auto Plan Cache](http://mysql.taobao.org/monthly/2023/04/01/) |
+| 功能特性 | [Cube, grouping sets功能介绍与实现](http://mysql.taobao.org/monthly/2023/05/05/) |
 |  | [PolarTrans事务系统介绍(一)](http://mysql.taobao.org/monthly/2022/09/04/) |
 |  | [PolarDB MySQL 大表实践-分区表篇](http://mysql.taobao.org/monthly/2022/11/01/) |
 |  | [PolarDB MySQL 新特性 - Partial Result Cache](http://mysql.taobao.org/monthly/2022/12/01/) |
