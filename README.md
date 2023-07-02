@@ -418,6 +418,8 @@
 | 源码阅读 | [RAND 表达式](http://mysql.taobao.org/monthly/2022/06/03/) |
 | 源码解析 | [MySQL 8.0.23 Hypergraph Join Optimizer代码详解](http://mysql.taobao.org/monthly/2021/02/03/) |
 | 源码解析 | [InnoDB中undo日志的组织及实现](http://mysql.taobao.org/monthly/2023/05/01/) |
+| 源码解析 | [并发Replace into导致死锁](http://mysql.taobao.org/monthly/2023/06/01/) |
+| 源码解析 | [mysql 子查询执行方式介绍](http://mysql.taobao.org/monthly/2023/06/02/) |
 | 源码详解 | [mini transaction详解](http://mysql.taobao.org/monthly/2021/09/04/) |
 | 最佳实战 | [审计日志实用案例分析](http://mysql.taobao.org/monthly/2016/07/07/) |
 | 最佳实战 | [SQL编码转换浅析](http://mysql.taobao.org/monthly/2021/08/01/) |
@@ -889,6 +891,7 @@
 | 功能特性 | [非阻塞DDL](http://mysql.taobao.org/monthly/2022/10/01/) |
 | 功能特性 | [嵌套子查询优化的性能分析](http://mysql.taobao.org/monthly/2022/10/06/) |
 |  | [PolarDB auto_inc 场景性能优化之路](http://mysql.taobao.org/monthly/2023/03/01/) |
+|  | [极致性价比:自研数据库PolarDB on 自研芯片倚天](http://mysql.taobao.org/monthly/2023/06/03/) |
   
 # PolarDB MySQL
 | 分类 | 标题  |
