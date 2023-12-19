@@ -399,6 +399,7 @@
 | 源码分析 | [InnoDB Redo Log 重构](http://mysql.taobao.org/monthly/2022/09/03/) |
 | 源码分析 | [MySQL Event 源码分析](http://mysql.taobao.org/monthly/2022/10/03/) |
 | 源码分析 | [鉴权过程](http://mysql.taobao.org/monthly/2023/05/03/) |
+| 源码分析 | [索引选择](http://mysql.taobao.org/monthly/2023/07/02/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -497,6 +498,7 @@
 | 分区表特性 | [一致性哈希算法应用](http://mysql.taobao.org/monthly/2022/06/05/) |
 | 行业洞察 | [为什么游戏行业喜欢用PolarDB](http://mysql.taobao.org/monthly/2022/07/01/) |
 | 行业洞察 | [长路漫漫, 从Blink-tree 到Bw-tree (上)](http://mysql.taobao.org/monthly/2022/08/02/) |
+| 工具使用 | [通过GDB non-stop mode 调试MySQL](http://mysql.taobao.org/monthly/2023/07/01/) |
 | | [undolog 的purge](http://mysql.taobao.org/monthly/2022/05/04/) |
 | | [MySQL中的HyperGraph优化器](http://mysql.taobao.org/monthly/2022/06/04/) |
 | | [UNDO LOG的演进与现状](http://mysql.taobao.org/monthly/2022/10/02/) |
@@ -506,6 +508,7 @@
 | | [Innodb 中的 Btree 实现 (一) · 引言 & insert 篇](http://mysql.taobao.org/monthly/2022/12/03/) |
 | | [MySQL · 业务场景 · 业务并发扣款，金额未扣](http://mysql.taobao.org/monthly/2022/12/04/) |
 | | [MySQL Binlog 源码入门](http://mysql.taobao.org/monthly/2023/01/04/) |
+| | [Innodb 中的 Btree 实现 (二) · select 篇](http://mysql.taobao.org/monthly/2023/07/03/) |
   
 # PostgreSQL
 | 分类 | 标题  |
