@@ -512,6 +512,7 @@
 | | [MySQL · 业务场景 · 业务并发扣款，金额未扣](http://mysql.taobao.org/monthly/2022/12/04/) |
 | | [MySQL Binlog 源码入门](http://mysql.taobao.org/monthly/2023/01/04/) |
 | | [Innodb 中的 Btree 实现 (二) · select 篇](http://mysql.taobao.org/monthly/2023/07/03/) |
+| | [MySQL 中的元数据管理](http://mysql.taobao.org/monthly/2023/10/03/) |
   
 # PostgreSQL
 | 分类 | 标题  |
@@ -898,6 +899,7 @@
 | 功能特性 | [嵌套子查询优化的性能分析](http://mysql.taobao.org/monthly/2022/10/06/) |
 |  | [PolarDB auto_inc 场景性能优化之路](http://mysql.taobao.org/monthly/2023/03/01/) |
 |  | [极致性价比:自研数据库PolarDB on 自研芯片倚天](http://mysql.taobao.org/monthly/2023/06/03/) |
+|  | [PolarDB Serverless弹性能力探索指南](http://mysql.taobao.org/monthly/2023/10/01/) |
   
 # PolarDB MySQL
 | 分类 | 标题  |
@@ -924,6 +926,7 @@
 |  | [库表恢复性能优化](http://mysql.taobao.org/monthly/2023/08/02/) |
 |  | [InnoDB冷数据表OSS归档](http://mysql.taobao.org/monthly/2023/08/03/) |
 |  | [云原生数据库PolarDB MySQL 8.0.2 DDL介绍](http://mysql.taobao.org/monthly/2023/09/03/) |
+|  | [PolarDB MySQL DBA工具库新增一员猛将Statement Outline](http://mysql.taobao.org/monthly/2023/10/02/) |
   
 # AliSQL
 | 分类 | 标题  |
