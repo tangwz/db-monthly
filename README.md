@@ -513,6 +513,7 @@
 | | [MySQL Binlog 源码入门](http://mysql.taobao.org/monthly/2023/01/04/) |
 | | [Innodb 中的 Btree 实现 (二) · select 篇](http://mysql.taobao.org/monthly/2023/07/03/) |
 | | [MySQL 中的元数据管理](http://mysql.taobao.org/monthly/2023/10/03/) |
+| | [MySQL Binlog GTID](http://mysql.taobao.org/monthly/2023/11/02/) |
   
 # PostgreSQL
 | 分类 | 标题  |
@@ -860,6 +861,7 @@
 | 存储引擎 | [HTAP列存引擎探秘](http://mysql.taobao.org/monthly/2022/02/02/) |
 | | [B+树数据库故障恢复概述](http://mysql.taobao.org/monthly/2022/10/04/) |
 | | [Long-lived Transactions 产生的影响](http://mysql.taobao.org/monthly/2023/02/03/) |
+| | [聊聊日志即数据库](http://mysql.taobao.org/monthly/2023/11/01/) |
   
 # X-Engine
 | 分类 | 标题  |
