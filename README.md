@@ -400,6 +400,7 @@
 | 源码分析 | [MySQL Event 源码分析](http://mysql.taobao.org/monthly/2022/10/03/) |
 | 源码分析 | [鉴权过程](http://mysql.taobao.org/monthly/2023/05/03/) |
 | 源码分析 | [索引选择](http://mysql.taobao.org/monthly/2023/07/02/) |
+| 源码分析 | [庖丁解 InnoDB 之 Buffer Pool](http://mysql.taobao.org/monthly/2023/08/01/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -918,6 +919,8 @@
 |  | [PolarDB MySQL · 持续补强的全局二级索引](http://mysql.taobao.org/monthly/2023/03/02/) |
 |  | [PolarDB for MySQL 优化器查询变换系列 - 条件下推](http://mysql.taobao.org/monthly/2023/03/03/) |
 |  | [PolarDB MySQL 联邦查询优化特征（条件下推、按需返回列、LIMIT OFFSET下推）](http://mysql.taobao.org/monthly/2023/04/01/) |
+|  | [库表恢复性能优化](http://mysql.taobao.org/monthly/2023/08/02/) |
+|  | [InnoDB冷数据表OSS归档](http://mysql.taobao.org/monthly/2023/08/03/) |
   
 # AliSQL
 | 分类 | 标题  |
