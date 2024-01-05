@@ -502,6 +502,8 @@
 | 行业洞察 | [长路漫漫, 从Blink-tree 到Bw-tree (上)](http://mysql.taobao.org/monthly/2022/08/02/) |
 | 工具使用 | [通过GDB non-stop mode 调试MySQL](http://mysql.taobao.org/monthly/2023/07/01/) |
 | 工具使用 | [MySQL client pager/edit/tee 介绍](http://mysql.taobao.org/monthly/2023/09/02/) |
+| 行业动态 | [AWS re:Invent2023 Aurora 发布了啥](http://mysql.taobao.org/monthly/2023/12/01/) |
+| 内核剖析 | [issue 111538 MySQL 8.0 instant add/drop column 性能回退问题](http://mysql.taobao.org/monthly/2023/12/02/) |
 | | [undolog 的purge](http://mysql.taobao.org/monthly/2022/05/04/) |
 | | [MySQL中的HyperGraph优化器](http://mysql.taobao.org/monthly/2022/06/04/) |
 | | [UNDO LOG的演进与现状](http://mysql.taobao.org/monthly/2022/10/02/) |
@@ -514,6 +516,7 @@
 | | [Innodb 中的 Btree 实现 (二) · select 篇](http://mysql.taobao.org/monthly/2023/07/03/) |
 | | [MySQL 中的元数据管理](http://mysql.taobao.org/monthly/2023/10/03/) |
 | | [MySQL Binlog GTID](http://mysql.taobao.org/monthly/2023/11/02/) |
+| | [MySQL 中的压缩技术](http://mysql.taobao.org/monthly/2023/12/04/) |
   
 # PostgreSQL
 | 分类 | 标题  |
@@ -929,6 +932,7 @@
 |  | [InnoDB冷数据表OSS归档](http://mysql.taobao.org/monthly/2023/08/03/) |
 |  | [云原生数据库PolarDB MySQL 8.0.2 DDL介绍](http://mysql.taobao.org/monthly/2023/09/03/) |
 |  | [PolarDB MySQL DBA工具库新增一员猛将Statement Outline](http://mysql.taobao.org/monthly/2023/10/02/) |
+|  | [PolarDB MySQL自适应查询优化-自适应行列路由](http://mysql.taobao.org/monthly/2023/12/03/) |
   
 # AliSQL
 | 分类 | 标题  |
