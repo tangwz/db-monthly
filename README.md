@@ -27,7 +27,7 @@
 * [PetaData](#petadata)
 * [HybridDB](#hybriddb)
 * [CloudDBA](#clouddba)
-
+* [工具](#tools)
 
 # MySQL
 | 分类 | 标题  |
@@ -521,6 +521,7 @@
 | | [MySQL 中的压缩技术](http://mysql.taobao.org/monthly/2023/12/04/) |
 | | [MySQL 权限管理](http://mysql.taobao.org/monthly/2024/01/02/) |
 | | [MySQL 深潜 - 直方图采样优化](http://mysql.taobao.org/monthly/2024/01/03/) |
+| | [MySQL查询优化分析 - MySQL优化执行的基础概念](http://mysql.taobao.org/monthly/2024/04/01/) |
   
 # PostgreSQL
 | 分类 | 标题  |
@@ -978,3 +979,8 @@
 |---|---|
 | 最佳实践 | [Performance Insights](http://mysql.taobao.org/monthly/2019/06/03/) |
 
+# Tools
+| 分类 | 标题  |
+|---|---|
+| | [PT_PERF：基于 Intel PT 的时延性能分析工具](http://mysql.taobao.org/monthly/2024/04/02/) |
+| | [如何使用 Intel Processor Trace 工具查看任意函数执行时间](http://mysql.taobao.org/monthly/2024/04/03/) |
