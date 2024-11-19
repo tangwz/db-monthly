@@ -919,6 +919,7 @@
 | | [PolarDB 基于代价的查询改写技术解析](http://mysql.taobao.org/monthly/2024/02/02/) |
 | | [PolarDB 单实例多租户模式介绍](http://mysql.taobao.org/monthly/2024/03/03/) |
 | | [PolarDB优化器功能 - 连接消除](http://mysql.taobao.org/monthly/2024/06/01/) |
+| | [PostgreSQL 子事务探秘](http://mysql.taobao.org/monthly/2024/07/03/) |
   
 # PolarDB MySQL
 | 分类 | 标题  |
@@ -932,21 +933,23 @@
 | 功能特性 | [大表扫描优化](http://mysql.taobao.org/monthly/2023/02/01/) |
 | 功能特性 | [Auto Plan Cache](http://mysql.taobao.org/monthly/2023/04/01/) |
 | 功能特性 | [Cube, grouping sets功能介绍与实现](http://mysql.taobao.org/monthly/2023/05/05/) |
-|  | [PolarTrans事务系统介绍(一)](http://mysql.taobao.org/monthly/2022/09/04/) |
-|  | [PolarDB MySQL 大表实践-分区表篇](http://mysql.taobao.org/monthly/2022/11/01/) |
-|  | [PolarDB MySQL 新特性 - Partial Result Cache](http://mysql.taobao.org/monthly/2022/12/01/) |
-|  | [PolarDB for MySQL 优化器查询变换系列 - IN-List 变换](http://mysql.taobao.org/monthly/2023/01/01/) |
-|  | [PolarDB IMCI 的 TopK 查询执行优化](http://mysql.taobao.org/monthly/2023/01/02/) |
-|  | [库表变更、加锁没审计？PolarDB MySQL 新功能 SQL Detail](http://mysql.taobao.org/monthly/2023/01/03/) |
-|  | [PolarDB MySQL的INTERVAL分区如何让DBA解放双手](http://mysql.taobao.org/monthly/2023/02/02/) |
-|  | [PolarDB MySQL · 持续补强的全局二级索引](http://mysql.taobao.org/monthly/2023/03/02/) |
-|  | [PolarDB for MySQL 优化器查询变换系列 - 条件下推](http://mysql.taobao.org/monthly/2023/03/03/) |
-|  | [PolarDB MySQL 联邦查询优化特征（条件下推、按需返回列、LIMIT OFFSET下推）](http://mysql.taobao.org/monthly/2023/04/01/) |
-|  | [库表恢复性能优化](http://mysql.taobao.org/monthly/2023/08/02/) |
-|  | [InnoDB冷数据表OSS归档](http://mysql.taobao.org/monthly/2023/08/03/) |
-|  | [云原生数据库PolarDB MySQL 8.0.2 DDL介绍](http://mysql.taobao.org/monthly/2023/09/03/) |
-|  | [PolarDB MySQL DBA工具库新增一员猛将Statement Outline](http://mysql.taobao.org/monthly/2023/10/02/) |
-|  | [PolarDB MySQL自适应查询优化-自适应行列路由](http://mysql.taobao.org/monthly/2023/12/03/) |
+| | [PolarTrans事务系统介绍(一)](http://mysql.taobao.org/monthly/2022/09/04/) |
+| | [PolarDB MySQL 大表实践-分区表篇](http://mysql.taobao.org/monthly/2022/11/01/) |
+| | [PolarDB MySQL 新特性 - Partial Result Cache](http://mysql.taobao.org/monthly/2022/12/01/) |
+| | [PolarDB for MySQL 优化器查询变换系列 - IN-List 变换](http://mysql.taobao.org/monthly/2023/01/01/) |
+| | [PolarDB IMCI 的 TopK 查询执行优化](http://mysql.taobao.org/monthly/2023/01/02/) |
+| | [库表变更、加锁没审计？PolarDB MySQL 新功能 SQL Detail](http://mysql.taobao.org/monthly/2023/01/03/) |
+| | [PolarDB MySQL的INTERVAL分区如何让DBA解放双手](http://mysql.taobao.org/monthly/2023/02/02/) |
+| | [PolarDB MySQL · 持续补强的全局二级索引](http://mysql.taobao.org/monthly/2023/03/02/) |
+| | [PolarDB for MySQL 优化器查询变换系列 - 条件下推](http://mysql.taobao.org/monthly/2023/03/03/) |
+| | [PolarDB MySQL 联邦查询优化特征（条件下推、按需返回列、LIMIT OFFSET下推）](http://mysql.taobao.org/monthly/2023/04/01/) |
+| | [库表恢复性能优化](http://mysql.taobao.org/monthly/2023/08/02/) |
+| | [InnoDB冷数据表OSS归档](http://mysql.taobao.org/monthly/2023/08/03/) |
+| | [云原生数据库PolarDB MySQL 8.0.2 DDL介绍](http://mysql.taobao.org/monthly/2023/09/03/) |
+| | [PolarDB MySQL DBA工具库新增一员猛将Statement Outline](http://mysql.taobao.org/monthly/2023/10/02/) |
+| | [PolarDB MySQL自适应查询优化-自适应行列路由](http://mysql.taobao.org/monthly/2023/12/03/) |
+| | [PolarDB MySQL 冷数据DDL优化](http://mysql.taobao.org/monthly/2024/07/01/) |
+| | [PolarDB MySQL 冷数据查询性能优化](http://mysql.taobao.org/monthly/2024/07/02/) |
   
 # AliSQL
 | 分类 | 标题  |
@@ -989,3 +992,4 @@
 |---|---|
 | | [PT_PERF：基于 Intel PT 的时延性能分析工具](http://mysql.taobao.org/monthly/2024/04/02/) |
 | | [如何使用 Intel Processor Trace 工具查看任意函数执行时间](http://mysql.taobao.org/monthly/2024/04/03/) |
+| | [使用PT_PERF排查线上慢SQL问题](http://mysql.taobao.org/monthly/2024/07/04/) |
