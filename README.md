@@ -402,6 +402,7 @@
 | 源码分析 | [索引选择](http://mysql.taobao.org/monthly/2023/07/02/) |
 | 源码分析 | [庖丁解 InnoDB 之 Buffer Pool](http://mysql.taobao.org/monthly/2023/08/01/) |
 | 源码分析 | [store procedure记录了过多的slow_log的问题详解](http://mysql.taobao.org/monthly/2023/09/01/) |
+| 源码分析 | [MySQL deadlock cause by lock inherit](http://mysql.taobao.org/monthly/2024/03/02/) |
 | 源码阅读 | [InnoDB伙伴内存分配系统实现分析](http://mysql.taobao.org/monthly/2020/09/04/) |
 | 源码阅读 | [创建二级索引](http://mysql.taobao.org/monthly/2020/11/03/) |
 | 源码阅读 | [Secondary Engine](http://mysql.taobao.org/monthly/2020/11/04/) |
@@ -504,6 +505,7 @@
 | 工具使用 | [MySQL client pager/edit/tee 介绍](http://mysql.taobao.org/monthly/2023/09/02/) |
 | 行业动态 | [AWS re:Invent2023 Aurora 发布了啥](http://mysql.taobao.org/monthly/2023/12/01/) |
 | 内核剖析 | [issue 111538 MySQL 8.0 instant add/drop column 性能回退问题](http://mysql.taobao.org/monthly/2023/12/02/) |
+| 死锁场景 | [并发插入相同主键场景](http://mysql.taobao.org/monthly/2024/03/01/) |
 | | [undolog 的purge](http://mysql.taobao.org/monthly/2022/05/04/) |
 | | [MySQL中的HyperGraph优化器](http://mysql.taobao.org/monthly/2022/06/04/) |
 | | [UNDO LOG的演进与现状](http://mysql.taobao.org/monthly/2022/10/02/) |
@@ -910,6 +912,7 @@
 |  | [PolarDB子查询改写系列（三）子查询折叠](http://mysql.taobao.org/monthly/2024/01/01/) |
 |  | [polardb文件元数据多节点一致性同步优化](http://mysql.taobao.org/monthly/2024/02/01/) |
 |  | [PolarDB 基于代价的查询改写技术解析](http://mysql.taobao.org/monthly/2024/02/02/) |
+|  | [PolarDB 单实例多租户模式介绍](http://mysql.taobao.org/monthly/2024/03/03/) |
   
 # PolarDB MySQL
 | 分类 | 标题  |
