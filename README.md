@@ -517,6 +517,8 @@
 | | [MySQL 中的元数据管理](http://mysql.taobao.org/monthly/2023/10/03/) |
 | | [MySQL Binlog GTID](http://mysql.taobao.org/monthly/2023/11/02/) |
 | | [MySQL 中的压缩技术](http://mysql.taobao.org/monthly/2023/12/04/) |
+| | [MySQL 权限管理](http://mysql.taobao.org/monthly/2024/01/02/) |
+| | [MySQL 深潜 - 直方图采样优化](http://mysql.taobao.org/monthly/2024/01/03/) |
   
 # PostgreSQL
 | 分类 | 标题  |
@@ -905,6 +907,7 @@
 |  | [PolarDB auto_inc 场景性能优化之路](http://mysql.taobao.org/monthly/2023/03/01/) |
 |  | [极致性价比:自研数据库PolarDB on 自研芯片倚天](http://mysql.taobao.org/monthly/2023/06/03/) |
 |  | [PolarDB Serverless弹性能力探索指南](http://mysql.taobao.org/monthly/2023/10/01/) |
+|  | [PolarDB子查询改写系列（三）子查询折叠](http://mysql.taobao.org/monthly/2024/01/01/) |
   
 # PolarDB MySQL
 | 分类 | 标题  |
