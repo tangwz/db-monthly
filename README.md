@@ -525,6 +525,7 @@
 | | [MySQL 深潜 - 重构后的 ROLLUP 实现](http://mysql.taobao.org/monthly/2024/05/01/) |
 | | [MySQL查询优化分析 - 常用分析方法](http://mysql.taobao.org/monthly/2024/05/02/) |
 | | [InnoDB 全文索引：基本概念，插入和删除](http://mysql.taobao.org/monthly/2024/05/03/) |
+| | [MySQL 深潜 - Semijoin 丛林小道全览](http://mysql.taobao.org/monthly/2024/06/02/) |
   
 # PostgreSQL
 | 分类 | 标题  |
@@ -910,13 +911,14 @@
 | Serverless之路 | [无感秒切](http://mysql.taobao.org/monthly/2022/07/03/) |
 | 功能特性 | [非阻塞DDL](http://mysql.taobao.org/monthly/2022/10/01/) |
 | 功能特性 | [嵌套子查询优化的性能分析](http://mysql.taobao.org/monthly/2022/10/06/) |
-|  | [PolarDB auto_inc 场景性能优化之路](http://mysql.taobao.org/monthly/2023/03/01/) |
-|  | [极致性价比:自研数据库PolarDB on 自研芯片倚天](http://mysql.taobao.org/monthly/2023/06/03/) |
-|  | [PolarDB Serverless弹性能力探索指南](http://mysql.taobao.org/monthly/2023/10/01/) |
-|  | [PolarDB子查询改写系列（三）子查询折叠](http://mysql.taobao.org/monthly/2024/01/01/) |
-|  | [polardb文件元数据多节点一致性同步优化](http://mysql.taobao.org/monthly/2024/02/01/) |
-|  | [PolarDB 基于代价的查询改写技术解析](http://mysql.taobao.org/monthly/2024/02/02/) |
-|  | [PolarDB 单实例多租户模式介绍](http://mysql.taobao.org/monthly/2024/03/03/) |
+| | [PolarDB auto_inc 场景性能优化之路](http://mysql.taobao.org/monthly/2023/03/01/) |
+| | [极致性价比:自研数据库PolarDB on 自研芯片倚天](http://mysql.taobao.org/monthly/2023/06/03/) |
+| | [PolarDB Serverless弹性能力探索指南](http://mysql.taobao.org/monthly/2023/10/01/) |
+| | [PolarDB子查询改写系列（三）子查询折叠](http://mysql.taobao.org/monthly/2024/01/01/) |
+| | [polardb文件元数据多节点一致性同步优化](http://mysql.taobao.org/monthly/2024/02/01/) |
+| | [PolarDB 基于代价的查询改写技术解析](http://mysql.taobao.org/monthly/2024/02/02/) |
+| | [PolarDB 单实例多租户模式介绍](http://mysql.taobao.org/monthly/2024/03/03/) |
+| | [PolarDB优化器功能 - 连接消除](http://mysql.taobao.org/monthly/2024/06/01/) |
   
 # PolarDB MySQL
 | 分类 | 标题  |
