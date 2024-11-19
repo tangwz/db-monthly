@@ -908,6 +908,8 @@
 |  | [极致性价比:自研数据库PolarDB on 自研芯片倚天](http://mysql.taobao.org/monthly/2023/06/03/) |
 |  | [PolarDB Serverless弹性能力探索指南](http://mysql.taobao.org/monthly/2023/10/01/) |
 |  | [PolarDB子查询改写系列（三）子查询折叠](http://mysql.taobao.org/monthly/2024/01/01/) |
+|  | [polardb文件元数据多节点一致性同步优化](http://mysql.taobao.org/monthly/2024/02/01/) |
+|  | [PolarDB 基于代价的查询改写技术解析](http://mysql.taobao.org/monthly/2024/02/02/) |
   
 # PolarDB MySQL
 | 分类 | 标题  |
