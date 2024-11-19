@@ -522,6 +522,9 @@
 | | [MySQL 权限管理](http://mysql.taobao.org/monthly/2024/01/02/) |
 | | [MySQL 深潜 - 直方图采样优化](http://mysql.taobao.org/monthly/2024/01/03/) |
 | | [MySQL查询优化分析 - MySQL优化执行的基础概念](http://mysql.taobao.org/monthly/2024/04/01/) |
+| | [MySQL 深潜 - 重构后的 ROLLUP 实现](http://mysql.taobao.org/monthly/2024/05/01/) |
+| | [MySQL查询优化分析 - 常用分析方法](http://mysql.taobao.org/monthly/2024/05/02/) |
+| | [InnoDB 全文索引：基本概念，插入和删除](http://mysql.taobao.org/monthly/2024/05/03/) |
   
 # PostgreSQL
 | 分类 | 标题  |
