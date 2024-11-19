@@ -667,6 +667,7 @@
 | 引擎特性 | [PostgreSQL 通信协议](http://mysql.taobao.org/monthly/2020/03/02/) |
 | 引擎特性 | [SQL防火墙使用说明与内核浅析](http://mysql.taobao.org/monthly/2020/07/06/) |
 | 引擎特性 | [PostgreSQL 14 新特性浅析](http://mysql.taobao.org/monthly/2021/12/01/) |
+| 引擎特性 | [BLOB 实现与性能优化](http://mysql.taobao.org/monthly/2024/10/01/) |
 | 原理介绍 | [PostgreSQL行锁实现](http://mysql.taobao.org/monthly/2018/12/07/) |
 | 原理介绍 | [PostgreSQL中的空闲空间管理](http://mysql.taobao.org/monthly/2019/03/06/) |
 | 源码解析 | [Json — 从使用到源码](http://mysql.taobao.org/monthly/2019/02/07/) |
@@ -1007,3 +1008,4 @@
 | | [PT_PERF：基于 Intel PT 的时延性能分析工具](http://mysql.taobao.org/monthly/2024/04/02/) |
 | | [如何使用 Intel Processor Trace 工具查看任意函数执行时间](http://mysql.taobao.org/monthly/2024/04/03/) |
 | | [使用PT_PERF排查线上慢SQL问题](http://mysql.taobao.org/monthly/2024/07/04/) |
+| | [通过 eBPF 进行跨线程的性能分析](http://mysql.taobao.org/monthly/2024/10/02/) |
