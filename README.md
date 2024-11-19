@@ -527,6 +527,9 @@
 | | [MySQL查询优化分析 - 常用分析方法](http://mysql.taobao.org/monthly/2024/05/02/) |
 | | [InnoDB 全文索引：基本概念，插入和删除](http://mysql.taobao.org/monthly/2024/05/03/) |
 | | [MySQL 深潜 - Semijoin 丛林小道全览](http://mysql.taobao.org/monthly/2024/06/02/) |
+| | [MySQL 单表大数据量下的 B-tree 高度问题](http://mysql.taobao.org/monthly/2024/09/02/) |
+| | [Mysql None-SPJ算子执行流程](http://mysql.taobao.org/monthly/2024/09/03/) |
+| | [MySQL Index-Merge代价估算原理](http://mysql.taobao.org/monthly/2024/09/04/) |
   
 # PostgreSQL
 | 分类 | 标题  |
@@ -678,6 +681,7 @@
 | | [PostgreSQL MemoryContext 标准实现解读](http://mysql.taobao.org/monthly/2024/08/02/) |
 | | [pg_repack 插件原理解读](http://mysql.taobao.org/monthly/2024/08/03/) |
 | | [PostgreSQL blink-tree implement notes](http://mysql.taobao.org/monthly/2024/08/04/) |
+| | [PostgreSQL 事件触发器 tag 原理简析](http://mysql.taobao.org/monthly/2024/09/01/) |
 
 # Redis
 | 分类 | 标题  |
