@@ -507,6 +507,7 @@
 | 行业动态 | [AWS re:Invent2023 Aurora 发布了啥](http://mysql.taobao.org/monthly/2023/12/01/) |
 | 内核剖析 | [issue 111538 MySQL 8.0 instant add/drop column 性能回退问题](http://mysql.taobao.org/monthly/2023/12/02/) |
 | 死锁场景 | [并发插入相同主键场景](http://mysql.taobao.org/monthly/2024/03/01/) |
+| 功能特性 | [谓词下推增强](http://mysql.taobao.org/monthly/2024/11/02/) |
 | | [undolog 的purge](http://mysql.taobao.org/monthly/2022/05/04/) |
 | | [MySQL中的HyperGraph优化器](http://mysql.taobao.org/monthly/2022/06/04/) |
 | | [UNDO LOG的演进与现状](http://mysql.taobao.org/monthly/2022/10/02/) |
@@ -683,6 +684,7 @@
 | | [pg_repack 插件原理解读](http://mysql.taobao.org/monthly/2024/08/03/) |
 | | [PostgreSQL blink-tree implement notes](http://mysql.taobao.org/monthly/2024/08/04/) |
 | | [PostgreSQL 事件触发器 tag 原理简析](http://mysql.taobao.org/monthly/2024/09/01/) |
+| | [PostgreSQL LIKE 操作符走 B-tree 索引浅析](http://mysql.taobao.org/monthly/2024/11/01/) |
 
 # Redis
 | 分类 | 标题  |
