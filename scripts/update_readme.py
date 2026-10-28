@@ -15,6 +15,11 @@ from html.parser import HTMLParser
 import urllib.request
 
 BASE_URL = os.environ.get("MONTHLY_BASE_URL", "https://mysql.taobao.org/monthly")
+TIMEOUT = float(os.environ.get("MONTHLY_TIMEOUT", "10"))
+# Article rows link to a single post, so the month is only a path segment of
+# the link and never the whole URL.
+MONTH_IN_LINK = re.compile(r"https?://[^\s)]*/monthly/(\d{4})/(\d{2})/")
+ARTICLE_LINK = re.compile(r"https?://[^\s)]+")
 
 
 def fetch(url: str) -> str:
@@ -27,7 +32,7 @@ def fetch(url: str) -> str:
         handler = urllib.request.ProxyHandler({})  # disable env proxies
     opener = urllib.request.build_opener(handler)
     try:
-        with opener.open(req, timeout=10) as resp:  # pragma: no cover - network I/O
+        with opener.open(req, timeout=TIMEOUT) as resp:  # pragma: no cover - network I/O
             return resp.read().decode("utf-8", errors="ignore")
     except Exception as exc:  # pragma: no cover - network I/O
         raise RuntimeError(f"failed to fetch {url}: {exc}")
@@ -95,6 +100,33 @@ def parse_month(year: int, month: int):
     return parser.articles
 
 
+def insert_rows(content: str, category: str, rows: list[str]) -> str:
+    """Insert rows under the category table and keep the rest of README intact.
+
+    The table header is located by its own heading so a repeated header in
+    another section never receives the rows of this category.
+    """
+    header = re.compile(
+        r"^# " + re.escape(category) + r"\n\| 分类 \| 标题\s*\|\n\|[-|]+\|\n",
+        re.MULTILINE,
+    )
+    match = header.search(content)
+    if not match:
+        # skip categories not present
+        return content
+    return content[: match.end()] + "\n".join(rows) + "\n" + content[match.end() :]
+
+
+def covered_months(content: str) -> set[tuple[int, int]]:
+    """Return the months already linked from the README article rows."""
+    return {(int(year), int(month)) for year, month in MONTH_IN_LINK.findall(content)}
+
+
+def existing_articles(content: str) -> set[str]:
+    """Return every article URL already referenced by the README."""
+    return set(ARTICLE_LINK.findall(content))
+
+
 def update_readme(new_articles):
     readme_path = Path(__file__).resolve().parent.parent / "README.md"
     content = readme_path.read_text(encoding="utf-8")
@@ -102,12 +134,8 @@ def update_readme(new_articles):
     for category, items in new_articles.items():
         if not items:
             continue
-        table_header = f"# {category}\n| 分类 | 标题  |\n|---|---|"
-        if table_header not in content:
-            # skip categories not present
-            continue
         lines = [f"| {typ} | [{title}]({link}) |" for typ, title, link in items]
-        content = content.replace(table_header, table_header + "\n" + "\n".join(lines))
+        content = insert_rows(content, category, lines)
 
     readme_path.write_text(content, encoding="utf-8")
 
@@ -117,11 +145,12 @@ def main():  # pragma: no cover - integration logic
     months = get_months(index_html)
     readme = Path(__file__).resolve().parent.parent / "README.md"
     existing = readme.read_text(encoding="utf-8")
+    covered = covered_months(existing)
+    known = existing_articles(existing)
 
     updates = defaultdict(list)
     for y, m in months:
-        url = f"{BASE_URL}/{y:04d}/{m:02d}/"
-        if url in existing:
+        if (y, m) in covered:
             continue
         try:
             articles = parse_month(y, m)
@@ -129,7 +158,9 @@ def main():  # pragma: no cover - integration logic
             print(f"Failed to fetch {y}-{m:02d}: {exc}", file=sys.stderr)
             continue
         for cat, items in articles.items():
-            updates[cat].extend(items)
+            updates[cat].extend(
+                item for item in items if item[2] not in known
+            )
 
     if updates:
         update_readme(updates)
